@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @13bhavsagar
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Machine learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-13bhavsagar/13bhavsagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 🔍 Passionate about data science, machine learning, and AI
+
+- 💡 Love turning data into insights and building real-world ML applications
+
+- 🖥️ Proficient in Python, SQL, NumPy, pandas,matpplot,seaborn,plotly,scikit-learn, TensorFlow Streamlit
+
+- 📚 Currently exploring Deep Learning, MLOps
+
+- 🎯 Goal: Contribute to open-source ML projects and write blogs on AI trends
+
+
 --->
