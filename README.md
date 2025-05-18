@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13bhavsagar
+- 👋 Hi, I’m Bhavsagar
 
 - 🔍 Passionate about data science, machine learning, and AI
 
